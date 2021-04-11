@@ -15,7 +15,7 @@ After that, we will take in account the number of vaccines available and allocat
   
 ## Demo Video Link:
   
-[https://youtu.be/G_uLN5l6YDs](https://www.youtube.com/watch?v=D088VVR5Zf8](https://www.youtube.com/watch?v=D088VVR5Zf8)
+[DEMO VIDEO](https://www.youtube.com/watch?v=D088VVR5Zf8)
   
 ## Presentation Link:
 
